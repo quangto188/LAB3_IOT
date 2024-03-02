@@ -55,3 +55,5 @@ while True:
             client.publish("ai", ai_result)
     readSerial(client)
     time.sleep(1)
+
+    # Comment để commit
